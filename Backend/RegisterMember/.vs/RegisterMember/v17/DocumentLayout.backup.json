@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\pre-test\\preTest02\\Backend\\RegisterMember\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52BF7740-88BD-4258-9C2D-651E7B22A0B1}|RegisterMember\\RegisterMember.csproj|d:\\pre-test\\pretest02\\backend\\registermember\\registermember\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52BF7740-88BD-4258-9C2D-651E7B22A0B1}|RegisterMember\\RegisterMember.csproj|solutionrelative:registermember\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\pre-test\\preTest02\\Backend\\RegisterMember\\RegisterMember\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RegisterMember\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\pre-test\\preTest02\\Backend\\RegisterMember\\RegisterMember\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RegisterMember\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-13T04:42:30.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
